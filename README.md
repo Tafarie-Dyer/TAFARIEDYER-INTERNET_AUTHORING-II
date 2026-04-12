@@ -53,9 +53,7 @@ This Laravel-based PWA provides students with access to:
 - The project uses **SQLite**. The `database/database.sqlite` file is already included.
 - The social media page uses official public handles for `@UCCJamaica`.
 - Instagram profile embedding is commonly restricted by browser/platform security policies, so a direct open button is provided as a fallback.
-- Update the second group member name before submission.
-
-
+- 
 ## Deliverables Checklist
 - [x] Laravel project files
 - [x] README with group members section
@@ -65,4 +63,4 @@ This Laravel-based PWA provides students with access to:
 - [ ] Push project to GitHub and add repository URL here before submission
 
 ## GitHub URL
-Add your GitHub repository URL here after pushing.
+Add your GitHub repository URL here after pushing, for example: https://github.com/your-username/uccit_php_pwa_duo26_S2026

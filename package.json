@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "echo No frontend build required",
+    "dev": "echo No frontend build required"
+  }
+}
