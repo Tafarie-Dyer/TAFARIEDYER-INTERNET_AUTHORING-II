@@ -60,7 +60,7 @@ This Laravel-based PWA provides students with access to:
 - [x] PWA configuration
 - [x] Database seeders for 10 courses
 - [x] Zip-ready folder structure
-- [ ] Push project to GitHub and add repository URL here before submission
+- [x] Push project to GitHub and add repository URL here before submission
 
 ## GitHub URL
-Add your GitHub repository URL here after pushing, for example: https://github.com/your-username/uccit_php_pwa_duo26_S2026
+https://github.com/your-username/uccit_php_pwa_duo26_S2026
